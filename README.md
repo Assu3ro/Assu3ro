@@ -7,11 +7,11 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 <a href="https://www.github.com/Assu3ro" rel="noreferrer"><img src="https://img.shields.io/github/followers/Assu3ro?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
 &nbsp;
 <br> <br>
-Atuamente estou estudando, HTLML5, JavaScript, CSS3, ECMAScript, PHP, Ajax, Jquery, Arquitetura MVC, Sass, IONIC, WordPress e por fim Python. (Udemy)
+Atuamente estou estudando, HTLML5, JavaScript, CSS3, e Arquitetura MVC. (Udemy)
 <br>
 Ademais, estudo Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex_Recife)
 <br>
-Inicialmente desejo atuar no Front-End, com Desenvolvimento WEB ou Desenvolvedor Mobile.
+Inicialmente desejo atuar no Front-End, com o Desenvolvimento WEB ou Desenvolvendo API's Mobile.
 <br>
 Estarei públicando e "commitando" meus projetos, então me segue para acompanhar. 
 <br>
