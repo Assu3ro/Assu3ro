@@ -10,7 +10,7 @@ on:
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
-# Regras
+# Regras:
 jobs:
   build:
     runs-on: ubuntu-latest
