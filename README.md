@@ -28,4 +28,4 @@ Atuo na área do Front-End com Desenvolvimento WEB e Integração Automatizada, 
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,nodejs,aws,azure,mysql,github,figma,html,css,wordpress,atom,vscode)]((https://github.com/Assu3ro))
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
