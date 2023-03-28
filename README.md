@@ -70,4 +70,3 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 <img width=120 src="https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png"/>
 <img width=120 src="https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"/>
 <img width=120 src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-
