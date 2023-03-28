@@ -34,4 +34,4 @@ Estarei públicando e "commitando" meus projetos, então me segue para acompanha
 </div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
-
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
