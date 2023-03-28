@@ -6,10 +6,11 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 
 <a href="https://www.github.com/Assu3ro" rel="noreferrer"><img src="https://img.shields.io/github/followers/Assu3ro?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
 &nbsp;
-
-Sou estudante de Engenharia de Software e desenvolvo soluções digitais.
+<br><br>
+Sou estudante de Engenharia de Software e Desenvolvo Soluções Digitais.
+<br>
 Atuo na área do Front-End com Desenvolvimento WEB e Integração Automatizada, em Python.
-
+<br>
 <a href="https://github.com/Assu3ro">
 
 
