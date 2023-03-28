@@ -2,10 +2,17 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 =========================================================================================================================================
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Sejam+Bem+Vindos!!!)
 
+
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel.asca/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-assuero/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581993276389)
+[![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/emanuel_asca)
 <a href="https://www.github.com/Assu3ro" rel="noreferrer"><img src="https://img.shields.io/github/followers/Assu3ro?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
-&nbsp;
+
+
 <br> <br>
 🌱- Atuamente estou estudando o CC50 (Harvard), HTLML5, JavaScript, CSS3, Arquitetura MVC (Udemy) e Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex_Recife)
 <br>
@@ -13,41 +20,54 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 <br>
 🚩- Estarei públicando e "commitando" meus projetos, então me segue para acompanhar. 
 <br>
-<a href="https://github.com/Assu3ro">
-<br>
-</div>
+
 </br>
 <div align="center">
-  <div align="center">
-  <a href="https://github.com/Assu3ro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Assu3ro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
+<a href="https://github.com/Assu3ro">   
+<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=Assu3ro&show_icons=true&theme=dark"/>
+<img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assu3ro&layout=compact&theme=dark"/>
 
+  
+<div style="display: inline_block"> 
+</br>
+<div align="center">
+
+![snake gif](https://github.com/Assu3ro/Assu3ro/blob/output/github-contribution-grid-snake.svg)
+    
+  
+<div style="display: inline_block">
 </div>
- <div align="center">
+<br>
+  
+  
+<div align="center">
 <div style="display: inline_block">
 
 # Ferramentas e Serviços favoritos:
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,nodejs,aws,azure,mysql,github,figma,html,css,wordpress,atom,vscode)]((https://github.com/Assu3ro))
+
+
+<div align="center">
+<div style="display: inline_block">
+<br>
+
+
+# Troféus de Progresso:
+
+<div>
+<div align="center">
+<div style="display: inline_block">
+<img width=700 src="https://github-profile-trophy.vercel.app/?username=Assu3ro&theme=darkhub&margin-w=3&margin-h=15"/>
+
+
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-
-  
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-
-![snake gif](https://github.com/Assu3ro/Assu3ro/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
+<div align="center">
+<div style="display: inline_block">
 
 # Certificados Digitais:
 
-[![AWS Learning: AWS for Games: Cloud Game Development](https://images.credly.com/size/130x130/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a "AWS Learning: AWS for Games: Cloud Game Development")
-[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/130x130/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/ebbd0494-5d31-4498-b36c-65478a4e3421 "Microsoft 365 Certified: Fundamentals")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/130x130/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/6871ee3c-b12a-4965-830c-ff744532c723/ "Microsoft Certified: Azure Fundamentals")
+<img width=120 src="https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png"/>
+<img width=120 src="https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"/>
+<img width=120 src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 
