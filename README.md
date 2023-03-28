@@ -26,7 +26,6 @@ Estarei públicando e "commitando" meus projetos, então me segue para acompanha
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/130x130/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/ebbd0494-5d31-4498-b36c-65478a4e3421 "Microsoft 365 Certified: Fundamentals")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/130x130/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/6871ee3c-b12a-4965-830c-ff744532c723/ "Microsoft Certified: Azure Fundamentals")
 
-![snake gif](https://github.com/Assu3ro/Assu3ro/blob/output/github-contribution-grid-snake.svg)
 
 # Ferramentas e Serviços favoritos:
 
@@ -34,4 +33,4 @@ Estarei públicando e "commitando" meus projetos, então me segue para acompanha
 </div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Assu3ro/Assu3ro/blob/output/github-contribution-grid-snake.svg)
