@@ -9,7 +9,7 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 <br> <br>
 Atuamente estou estudando, HTLML5, JavaScript, CSS3, ECMAScript, PHP, Ajax, Jquery, Arquitetura MVC, Sass, IONIC, WordPress e por fim Python. (Udemy)
 <br>
-Ademais, estudo Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex-Recife)
+Ademais, estudo Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex_Recife)
 <br>
 Inicialmente desejo atuar no Front-End, com Desenvolvimento WEB ou Desenvolvedor Mobile.
 <br>
