@@ -29,7 +29,7 @@ Estarei públicando e "commitando" meus projetos, então me segue para acompanha
 
 # Ferramentas e Serviços favoritos:
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,nodejs,aws,azure,mysql,github,figma,html,css,wordpress,atom,vscode, java)]((https://github.com/Assu3ro))
+[![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,nodejs,aws,azure,mysql,github,figma,html,css,wordpress,atom,vscode)]((https://github.com/Assu3ro))
 </div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
