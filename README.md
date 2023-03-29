@@ -13,7 +13,7 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 
 
 <br> <br>
-🌱- Atuamente estou estudando o CC50 (Harvard), HTLML5, JavaScript, CSS3, Arquitetura MVC (Udemy) e Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex_Recife)
+🌱- Atuamente estou estudando o CS50'S (Harvard), HTLML5, JavaScript, CSS3, Arquitetura MVC (Udemy) e Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex_Recife)
 <br>
 🚁- Inicialmente desejo adentrar no mercado de trabalho atuando no Front-End, com o Desenvolvimento WEB ou Desenvolvendo API's Mobile.
 <br>
