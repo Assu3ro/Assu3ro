@@ -44,7 +44,7 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 
 # Ferramentas e Serviços favoritos:
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,nodejs,aws,azure,mysql,github,figma,html,css,wordpress,atom,vscode)]((https://github.com/Assu3ro))
+[![My Skills](https://skillicons.dev/icons?i=python,php,linux,raspberrypi,aws,azure,mysql,github,figma,html,css,wordpress,atom,vscode)]((https://github.com/Assu3ro))
 
 
 <div align="center">
