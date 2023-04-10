@@ -12,15 +12,19 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 <a href="https://www.github.com/Assu3ro" rel="noreferrer"><img src="https://img.shields.io/github/followers/Assu3ro?logo=githubx&style=for-the-badge&color=9046FF&labelColor=9046FF&label=GITHUB+FOLOWERS"></a>
 
 
-<br> <br>
+<br>
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
+
 🌱- Atuamente estou estudando o CS50'S (Harvard), HTLML5, JavaScript, CSS3, Arquitetura MVC (Udemy) e Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0 - Softex_Recife)
 <br>
 🚁- Inicialmente desejo adentrar no mercado de trabalho atuando no Front-End, com o Desenvolvimento WEB ou Desenvolvendo API's Mobile. Mas estou aberto para novas possibilidades.
 <br>
 🚩- Estarei públicando e "commitando" meus projetos, então me segue para acompanhar. 
 <br>
-
-</br>
+<br>
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
+<br>
+<br>
 <div align="center">
 <a href="https://github.com/Assu3ro">   
 <img align="center" height="180em" width=495 src="https://github-readme-stats.vercel.app/api?username=Assu3ro&show_icons=true&theme=dark"/>
@@ -36,14 +40,11 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
   
 <div style="display: inline_block">
 </div>
-<br>
-  
-  
+<br>  
 <div align="center">
 <div style="display: inline_block">
 
 # Ferramentas e Serviços favoritos:
-
 [![My Skills](https://skillicons.dev/icons?i=python,php,linux,raspberrypi,aws,mysql,github,html,css,wordpress,atom,vscode)]((https://github.com/Assu3ro))
 
 
@@ -51,21 +52,20 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 <div style="display: inline_block">
 <br>
 
-
 # Troféus de Progresso:
-
 <div>
 <div align="center">
 <div style="display: inline_block">
 <img width=700 src="https://github-profile-trophy.vercel.app/?username=Assu3ro&theme=darkhub&margin-w=3&margin-h=15"/>
-
 
 </div>
 <div align="center">
 <div style="display: inline_block">
 
 # Certificados Digitais:
-
 <img width=120 src="https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png"/>
 <img width=120 src="https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"/>
 <img width=120 src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+<br>
+<br>
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/> 
