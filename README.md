@@ -17,9 +17,9 @@ Olá, eu sou Emanuel Assuero! ![](https://user-images.githubusercontent.com/1835
 
 🌱- Sou Desenvolvedor Web (Angular.Ts). Atuamente estou estudando Python, SQL/MySQL, Java e Bancos de Dados. (CDD 4.0)
 <br>
-🚁- Inicialmente desejo adentrar no mercado de trabalho atuando no Front-End, com o Desenvolvimento WEB. Mas estou sempre aberto para novas possibilidades.
+🚁- Inicialmente estou agregando no mercado de trabalho com Front-End, no Desenvolvimento Web. Mas sempre aberto para novas possibilidades.
 <br>
-🚩- Estarei públicando e "commitando" meus projetos, então me segue para acompanhar. 
+🚩- Em horas livres estarei públicando e "commitando" meus projetos, então me segue para acompanhar. 
 <br>
 <br>
 <img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
